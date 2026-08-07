@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Allow all crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
